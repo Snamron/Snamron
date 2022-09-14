@@ -1,6 +1,10 @@
 ### Hi there, I'm Peter👋 👩‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snamron)](https://github.com/snamron/github-readme-stats)
+
+
+
+
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=snamron)](https://github.com/snamron/github-readme-stats)
 
 <!--
 **Snamron/Snamron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
