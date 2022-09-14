@@ -1,4 +1,4 @@
-### Hi there, I'm Peter 👋
+### Hi there, I'm Peter👋 👩‍💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snamron)](https://github.com/snamron/github-readme-stats)
 
