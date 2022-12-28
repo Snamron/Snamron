@@ -1,6 +1,8 @@
-### Hi there, I'm Peter👋 👩‍💻
+### Hi there, I'm Peter👋 👩‍💻 and I am a Flutter developer with a passion for building beautiful and intuitive mobile applications. I have experience working with the Dart programming language and the Flutter framework to create a variety of applications, including business apps, data-driven applications, and more.
 
-Mobile Software Developer
+I am an organized and detail-oriented individual with strong communication skills and the ability to work well in both team and independent settings. I am constantly seeking to improve my skills and stay up-to-date with the latest developments in the Flutter ecosystem.
+
+
 
 
 
