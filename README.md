@@ -1,4 +1,4 @@
-  # 👋 Hi, I'm [Peter]
+  # 👋 Hi, I'm Peter 👩‍💻 
 
 ## 💻 Mobile Developer | Flutter & Swift/SwiftUI
 
