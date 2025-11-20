@@ -1,30 +1,49 @@
-### Hi there, I'm Peter👋 👩‍💻 
+  # 👋 Hi, I'm [Peter]
 
-I am a Flutter developer with a passion for building beautiful and intuitive mobile applications. I have experience working with the Dart programming language and the Flutter framework to create a variety of applications, including business apps, data-driven applications, and more.
+## 💻 Mobile Developer | Flutter & Swift/SwiftUI
 
-I am an organized and detail-oriented individual with strong communication skills and the ability to work well in both team and independent settings. In my previous roles, I have gained a reputation for producing high-quality code and delivering projects on time and within budget. I am constantly seeking to improve my skills and stay up-to-date with the latest developments in the Flutter ecosystem. 
+I am a **Flutter and Swift/SwiftUI developer** with a passion for building beautiful, intuitive, and high-performance mobile applications. My expertise spans both **cross-platform development with Flutter/Dart** and **native iOS development using Swift and SwiftUI**, enabling me to deliver versatile solutions tailored to diverse project needs.
 
-Thank you for visiting my GitHub profile! I am grateful for the opportunity to share my work and connect with other developers in the community. I am always looking to learn and grow as a programmer, and I appreciate any feedback or suggestions you may have. Thank you again for stopping by!
+---
 
+### 🛠️ Tech Stack
+- **Languages:** Dart, Swift  
+- **Frameworks:** Flutter, SwiftUI  
+- **Tools:** Xcode, Android Studio, Git, Firebase  
+- **Focus Areas:**  
+  - Cross-platform mobile apps  
+  - Native iOS applications  
+  - Business & data-driven solutions  
+  - UI/UX design with pixel-perfect interfaces  
 
+---
 
+### 🚀 Professional Strengths
+- Organized and detail-oriented  
+- Strong communication and collaboration skills  
+- Effective in both team-based and independent settings  
+- Reputation for producing high-quality, maintainable code  
+- Consistently delivering projects on time and within budget  
 
+---
 
+### 📈 Growth Mindset
+I am committed to continuous learning and staying up-to-date with the latest developments in both the **Flutter ecosystem** and the **Swift/SwiftUI landscape**. My goal is to refine my craft, explore innovative solutions, and make meaningful contributions to the developer community.
 
+---
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=snamron)](https://github.com/snamron/github-readme-stats)
+### 📂 Featured Projects
+- 📱 **Business App** – A Flutter-based solution for managing workflows and analytics  
+- 📊 **Data-Driven Dashboard** – Built with Flutter and Firebase for real-time insights  
+- 🍎 **iOS Native App** – Developed using SwiftUI with seamless animations and modern UI  
 
-<!--
-**Snamron/Snamron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ Thank you for visiting my GitHub profile! I’m always open to feedback, collaboration, and new opportunities. Let’s build something amazing together.
