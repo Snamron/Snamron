@@ -41,8 +41,8 @@ I am committed to continuous learning and staying up-to-date with the latest dev
 
 ### 🌐 Connect With Me
 [//]:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-//[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
-//[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-username)
+[//]:[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Snamron)
 
 ---
 
